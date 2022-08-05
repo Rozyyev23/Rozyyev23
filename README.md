@@ -2,7 +2,7 @@
 - 👀 I’m interested in Internship!
 - 🌱 I’m currently learning Python/R/SQL/JS
 - 📫 How to reach me atarozyev2307@gmail.com
-- 🌱 Financial University Under the Government of Russia Federation
+- 🌱 Financial University Under the Government of Russian Federation
 
 
 <div>
