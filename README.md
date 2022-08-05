@@ -5,9 +5,10 @@
 - 🌱 Financial University Under the Government of Russia Federation
 
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)" width="100"/>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"/>
 </div>
+[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]
 <!---
 Rozyyev23/Rozyyev23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
